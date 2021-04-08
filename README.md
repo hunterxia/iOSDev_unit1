@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![]("https://imgur.com/a/UKWfWXa")
+![]("https://imgur.com/a/UKWfWXa.gif")
 
 ### Notes
 The API part is a little bit hard to understand for me. Also, Adding other libraries from pod is also something completely new to me. 
